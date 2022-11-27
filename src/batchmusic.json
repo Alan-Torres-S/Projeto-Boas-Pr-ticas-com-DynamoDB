@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "O Rappa"},
+                  "SongTitle": {"S": "Pescador de ilusões"},
+                  "AlbumTitle": {"S": "O Rappa-Mundi"},
+                  "SongYear": {"S": "1996"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "O Rappa"},
+                  "SongTitle": {"S": "Rodo Cotidiano"},
+                  "AlbumTitle": {"S": "O silêncio que precede o esporro"},
+                  "SongYear": {"S": "2003"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "O Rappa"},
+                  "SongTitle": {"S": "Minha alma"},
+                  "AlbumTitle": {"S": "Lado B Lado A"},
+                  "SongYear": {"S": "1999"}
+                }
+            }
+        }
+      ]
+}

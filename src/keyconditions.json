@@ -1,0 +1,14 @@
+{   
+        {
+            ":artist":{"S":"O Rappa"},
+            ":title":{"S":"O Rappa-Mundi"}
+        },
+        {
+            ":artist":{"S":"Belchior"},
+            ":title":{"S":"Alucinação"}
+        },
+        {
+            ":artist":{"S":"Raul Seixas"},
+            ":title":{"S":"Gita"}
+        }
+}

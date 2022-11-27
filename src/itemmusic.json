@@ -1,0 +1,20 @@
+{
+        {
+            "Artist": {"S": "O Rappa"},
+            "SongTitle": {"S": "Pescador de ilusões"},
+            "AlbumTitle": {"S": "O Rappa-Mundi"},
+            "SongYear": {"S": "1996"}
+        },
+        {
+          "Artist": {"S": "Belchior"},
+          "SongTitle": {"S": "Alucinação"},
+          "AlbumTitle": {"S": "Alucinação"},
+          "SongYear": {"S": "1976"}
+        },
+        {
+            "Artist": {"S": "Raul Seixas"},
+            "SongTitle": {"S": "Gita"},
+            "AlbumTitle": {"S": "Gita"},
+            "SongYear": {"S": "1974"}
+        }
+}
